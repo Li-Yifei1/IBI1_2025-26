@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Hello, my name is LiYifei.
 I like drinking tea and eating chocolate biscuits.
 I am enjoying learning IBI1 
+=======
+Hello, my name is Liyifei.
+I like drinking tea and eating chocolate biscuits.
+I am enjoying IBI1  
+>>>>>>> 8335c0656efa16d24a997afc18638cb964c608c7
 I am happy that I can push my repo from Visual Studio Code to GitHub
