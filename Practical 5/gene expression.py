@@ -36,14 +36,14 @@ print("Average expression level of all ",{gene_num}, "genes:",  {avg_exp})
 # Step 4: Generate labeled bar chart
 genes = list(gene_exp.keys())       
 expressions = list(gene_exp.values())
-plt.figure(figsize=(10, 7))          #
+plt.figure(figsize=(10, 7))          
 plt.bar(genes, expressions, color='skyblue')  # Create bar plot
 
 # Add chart labels and title
 plt.title('Gene Expression Levels', fontsize=14)
 plt.xlabel('Gene Name', fontsize=12)
 plt.ylabel('Expression Level', fontsize=12)
-plt.xticks(rotation=0)                            # Keep gene names horizontal
+plt.xticks(rotation=0)                            
 
 # Adjust layout to prevent label overlap and display the plot
 plt.tight_layout()
