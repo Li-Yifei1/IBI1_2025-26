@@ -1,0 +1,12 @@
+This practical was about building stochastic SIR models to simulate the spread of an infection. 
+I learned how to turn a real disease problem into a probabilistic model using Python. 
+I made three different models: a basic SIR model, a model with vaccination, and a 2D spatial SIR model.
+
+The work was not very easy, but it was interesting. 
+I understood how infection and recovery work as random events. 
+I also learned how vaccination can reduce the number of infected people and create herd immunity. 
+The spatial model showed me how infection spreads locally to neighbors.
+
+The most important thing I learned is how to use probability and randomness to model real‑world problems. 
+I also practiced using numpy and matplotlib to make simulations and plots. 
+This practical helped me understand what a stochastic model is and how it behaves differently each time I run it.
