@@ -1,0 +1,11 @@
+Question: 
+What was the distribution of DALYs across all countries in 2019?
+
+Line Number: 
+The code for this question starts at line 72 in dalys.py.
+
+Discussion:
+The histogram shows that the distribution of DALYs is right-skewed. 
+Most countries have a DALY rate concentrated between 20,000 and 40,000. 
+There are very few countries with extremely high DALY rates (above 80,000), which likely represent regions facing significant health crises, high infectious disease burdens, or conflict. 
+This matches my expectations as global health tends to improve for the majority, leaving only a few outliers with very high disability rates.
