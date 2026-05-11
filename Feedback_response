@@ -1,0 +1,10 @@
+Practical 3:
+Based on the formative feedback for Practical 3, I have edited two files in my repository.
+First, I modified thingsIlike.txt. The feedback pointed out that I only used numerical placeholders (e.g., 1, 2, 3) instead of actual items. I have now updated this file to include a genuine list of 10 things I enjoy, such as specific foods and activities, properly following the "I like..." format.
+Second, I updated Reflection.txt (as well as my personal information). The marker noted that the file content had "no change," so I have completely revised it to replace the default template with my own personal information and actual reflections on the practical session.
+
+Practical 4:
+I edited the script creatine_clearance.py. 
+The marker noted that my script only printed a general "input variable needs corrected" message without specifying which input was wrong. To resolve this, I refactored the input validation logic. Instead of grouping all conditions into a single if statement, I implemented separate, independent if conditions for each variable (age, weight, Cr, and gender). Now, the script evaluates each input individually and successfully prints a specific, targeted error message identifying exactly which variable is invalid before stopping the calculation.
+
+Practical 5:
